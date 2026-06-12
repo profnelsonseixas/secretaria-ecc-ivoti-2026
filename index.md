@@ -1,12 +1,14 @@
 # Paróquia São Pedro Apóstolo
 
 ## Encontro de Casais com Cristo (ECC) - 2026
+## Grupo de Secretaria
+## Material para Meditação
 
 *"Misericórdia quero e não sacrifícios e o **conhecimento de Deus** mais do que holocaustos"*
 
 ([Oseias 6: 6](https://www.bibliaonline.com.br/acf/os/6) e [Mateus 9:13](https://padrepauloricardo.org/biblia/mt?cap=9&edition=matos-soares))
 
-## Material para Meditação do Grupo de Secretaria do Catecismo de Adultos
+
 
 ### Referência
 
