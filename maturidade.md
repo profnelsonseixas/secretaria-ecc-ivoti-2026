@@ -7,3 +7,6 @@ Antigamente, as crianças eram batizadas e, em seguida, crismadas para que receb
 Lembre que esta obediência é Amor, pois, como Jesus ensinou, "Se você me ama, obedecei aos meus mandamentos."
 
 Meditemos, então, sobre a nossa obediência às Leis de Deus...
+
+
+[<<ANTERIOR<<](infancia.md)  [ >>PRÓXIMO>>](morteRessurreicao.md)
