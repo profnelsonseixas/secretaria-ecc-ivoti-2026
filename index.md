@@ -19,6 +19,6 @@ SANTA SÉ. Catecismo da Igreja Católica, 5a. Ed. Brasília: Edições CNBB, 202
 ## Sumário
 
 1. [Nascimento](nascimento.md)
-2. [Infância: a vida privada](infancia)
-3. [Batismo e crisma: o início da vida pública](maturidade)
+2. [Infância: a vida privada](infancia.md)
+3. [Batismo e crisma: o início da vida pública](maturidade.md)
 4. [Morte e ressurreição](morteRessurreicao.md)
