@@ -12,4 +12,4 @@ Estamos cooperando ativamente com a Graça de Deus para nos santificarmos?
 
 Esta é a nossa meditação no momento...
 
-[<<ANTERIOR<<](index.md)  [ >>PRÓXIMO>>](infancia.md)
+[<<ANTERIOR<<](index.md)             [>>PRÓXIMO>>](infancia.md)
