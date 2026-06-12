@@ -23,3 +23,6 @@ Ou seja, temos levado nossa cruz até a Morte do nosso ego para a Ressurreição
 "Então Jesus disse aos seus discípulos: 'Se alguém quer vir após mim, a si mesmo se renuncie, tome a sua cruz e siga-me.'"
 
 Esta é a nossa meditação para agora...
+
+
+[<<ANTERIOR<<](maturidade.md)            [ >>PRÓXIMO>>](index.md)
